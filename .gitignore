@@ -1,0 +1,6 @@
+/.vscode
+/includes/config.php
+/logs/log.txt
+test.php
+index.php
+/includes/PHPMailer
